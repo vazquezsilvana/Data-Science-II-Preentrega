@@ -1,0 +1,24 @@
+Trabajando en la Presentación ejecutiva....
+
+Diapositiva 1. 🎯 Abstracto con motivación y audiencia
+- Breve resumen del problema y su relevancia --> Título: Análisis del Riesgo de Adicción a Redes Sociales en Estudiantes.
+- ¿A quién le importa esta información? --> Audiencia. 
+
+Diapositiva 2. 🗂️ Descripción del dataset
+- Número de filas y columnas
+- Tipos de variables (numéricas, categóricas)
+- Variables claves
+
+Diapositiva 3. ❓ Preguntas/Hipótesis
+- Listado de las preguntas
+
+Diapositiva 4-6. 📈 Visualizaciones ejecutivas
+- Gráficos que respondan directamente a las preguntas
+
+Diapositiva 7.💡 Insights
+- Resumen de hallazgos
+- Conclusiones accionables
+- Recomendaciones para la audiencia
+
+Diapositiva 8. 🏁Conclusiones Finales
+
